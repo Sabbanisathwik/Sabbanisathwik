@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sabbani Sathwik</h1>
 <h3 align="center">🚀 B.Tech Student | 🔬 Research Intern @ SRM University-AP | 💻 Full-Stack & ML Enthusiast</h3>
+<p align="center">
+ </p>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbanisathwik&label=Profile%20views&color=0e75b6&style=flat" alt="sabbanisathwik" /> </p>
+🧠 About Me
 
 - 🎓 I'm a final-year undergrad at **SRM University-AP**
 
-- 🌐 Passionate about [Full Stack Development, ML, and Real-world Projects](Full Stack Development, ML, and Real-world Projects)
+- 🌐 Passionate about Full Stack Development, ML, and Real-world Projects
 
 - 🧪 Currently researching **Computers in biology and medicine(using YOLOv6m model)**
 
