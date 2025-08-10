@@ -15,7 +15,7 @@
 
 - 🌐 Passionate about Full Stack Development, ML, and Real-world Projects
 
-- 🧪 Currently researching **Computers in biology and medicine(using YOLOv6m model)**
+- 🧪 Currently researching **Computers in biology and medicine(using YOLOv6m model.)**
 
 - 📫 How to reach me **satsat2686@gmail.com**
 
