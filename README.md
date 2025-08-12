@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **satsat2686@gmail.com**
 
-🌍 Let's Connect
+🌍 Let's Connect.
 
 <p align="left">
   <a href="mailto:satsat2686@gmail.com">
